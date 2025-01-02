@@ -80,7 +80,7 @@ def display_about():
         st.write("**Name:** Gopinath, Data Scientist")
         st.write("**Email:** [gopinathaiml12@gmail.com](mailto:gopinathaiml12@gmail.com)")
         st.write("**LinkedIn:** [Gopinath .](https://www.linkedin.com/in/gopinathaiml12/)")
-        st.write("**Portfolio:** [gopinathportfolio.com](https://www.gopinathportfolio.com)")  # Replace with actual portfolio link
+        st.write("**Portfolio:** [Gopinath's Portfolio](https://gopinathalpha7.github.io/Gopinath-Portfolio/)")  # Replace with actual portfolio link
         st.write("**GitHub:** [Gopinathalpha7](https://github.com/Gopinathalpha7)")
         # Add more contact details here
     # Add your About and Contact page content here
