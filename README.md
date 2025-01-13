@@ -125,6 +125,7 @@ By harnessing AI’s power, the assistant enables:
 
 ![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/f9ac87974b7c8d8b35abba616d9510eb74f42c6e/redirect/assets/img/Finance/9.jpg)
 
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/f9ac87974b7c8d8b35abba616d9510eb74f42c6e/redirect/assets/img/Finance/10.jpg)
 ---
 
 ## 📂 **Resources**
