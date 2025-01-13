@@ -104,18 +104,26 @@ By harnessing AI’s power, the assistant enables:
 ### **Home Page**
 - Provides an overview of the application’s capabilities.
 
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/f9ac87974b7c8d8b35abba616d9510eb74f42c6e/redirect/assets/img/Finance/2.jpg)
+
 ### **News Sentiment Analyzer**
 - **FinBERT**
   - Input: Financial news via PDFs or URLs.
   - Output: Sentiment labels and visualizations.
 - **Word Cloud**: Highlights frequent terms from analyzed content.
 
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/f9ac87974b7c8d8b35abba616d9510eb74f42c6e/redirect/assets/img/Finance/5.jpg)
+
 ### **Generative AI Model (Llama 3.1)**
 - Functions as a RAG application.
 - Handles complex sentiment queries and provides nuanced insights.
 
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/f9ac87974b7c8d8b35abba616d9510eb74f42c6e/redirect/assets/img/Finance/7.jpg)
+
 ### **About Page**
 - Comprehensive technical details and application specifications.
+
+![](https://github.com/Gopinathalpha7/Gopinath-Portfolio/blob/f9ac87974b7c8d8b35abba616d9510eb74f42c6e/redirect/assets/img/Finance/9.jpg)
 
 ---
 
